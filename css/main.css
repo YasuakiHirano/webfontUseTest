@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'DragonQuestFCIntact';
+  src: url('DragonQuestFCIntact.ttf');
+}
+* {
+     margin: 0;
+     padding: 0;
+}
+
+body {
+        width:100%;
+        background: #000;
+        line-height:90%;
+}
+#main_box{
+    width: 80%;
+    margin:20px auto;
+}
